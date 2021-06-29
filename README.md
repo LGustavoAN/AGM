@@ -1,1 +1,1 @@
-# AGM
+# Árvore Geradora Mínima
